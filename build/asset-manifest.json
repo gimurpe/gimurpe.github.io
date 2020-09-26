@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9eb1fbca.chunk.css",
+    "main.js": "/static/js/main.da3b5371.chunk.js",
+    "main.js.map": "/static/js/main.da3b5371.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0b9d88c4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0b9d88c4.js.map",
+    "static/js/2.b2635b10.chunk.js": "/static/js/2.b2635b10.chunk.js",
+    "static/js/2.b2635b10.chunk.js.map": "/static/js/2.b2635b10.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.bf719582ebb817f048662e32b7ce5c79.js": "/precache-manifest.bf719582ebb817f048662e32b7ce5c79.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.9eb1fbca.chunk.css.map": "/static/css/main.9eb1fbca.chunk.css.map",
+    "static/js/2.b2635b10.chunk.js.LICENSE.txt": "/static/js/2.b2635b10.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/static/media/Roboto-Bold.e07df86c.ttf",
+    "static/media/ballon-couple.gif": "/static/media/ballon-couple.92f3b88e.gif",
+    "static/media/butterfly.webm": "/static/media/butterfly.c2f8bdeb.webm",
+    "static/media/heart-stamp.png": "/static/media/heart-stamp.b4525ec3.png",
+    "static/media/stamp.webp": "/static/media/stamp.4b33a72b.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b9d88c4.js",
+    "static/js/2.b2635b10.chunk.js",
+    "static/css/main.9eb1fbca.chunk.css",
+    "static/js/main.da3b5371.chunk.js"
+  ]
+}
